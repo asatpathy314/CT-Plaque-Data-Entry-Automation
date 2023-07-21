@@ -1,0 +1,265 @@
+D1
+NCP volume:
+85.88 mm³
+CP volume:
+48.82 mm³
+Total Plaque volume:
+134.70 mm³
+Low-density NCP volume:
+36.58 mm³
+NCP Perc.:
+63.76 %
+Low-density NCP Perc.:
+42.59 %
+NCP Burden:
+5.49 %
+CP Burden:
+3.12 %
+Total Plaque Burden:
+8.60 %
+Low-density NCP Burden:
+2.34 %
+Dm. Stenosis (Vessel Taper):
+25.25 %
+Minimal Luminal Area:
+4.50 mm²
+Mean Ref. Dist. Stenosis:
+41.18 %
+Area Stenosis:
+72.97 %
+Remodeling Index (RI):
+1.21 
+Contrast Density Drop:
+59.52 %
+NCP X-sections:
+29 
+CP X-sections:
+18 
+Total X-sections:
+45 
+Plaque Length:
+57.80 mm
+Proximal Dm.:
+6.22 mm
+Distal Dm.:
+1.91 mm
+Max. Stenosis Dm.:
+2.39 mm
+NCP Threshold:
+95.54 HU
+Peak Threshold:
+284.43 HU
+CP Threshold:
+870.00 HU
+LM
+NCP volume:
+85.88 mm³
+CP volume:
+48.82 mm³
+Total Plaque volume:
+134.70 mm³
+Low-density NCP volume:
+36.58 mm³
+NCP Perc.:
+63.76 %
+Low-density NCP Perc.:
+42.59 %
+NCP Burden:
+5.49 %
+CP Burden:
+3.12 %
+Total Plaque Burden:
+8.60 %
+Low-density NCP Burden:
+2.34 %
+Dm. Stenosis (Vessel Taper):
+25.25 %
+Minimal Luminal Area:
+4.50 mm²
+Mean Ref. Dist. Stenosis:
+41.18 %
+Area Stenosis:
+72.97 %
+Remodeling Index (RI):
+1.21 
+Contrast Density Drop:
+59.52 %
+NCP X-sections:
+29 
+CP X-sections:
+18 
+Total X-sections:
+45 
+Plaque Length:
+57.80 mm
+Proximal Dm.:
+6.22 mm
+Distal Dm.:
+1.91 mm
+Max. Stenosis Dm.:
+2.39 mm
+NCP Threshold:
+95.54 HU
+Peak Threshold:
+284.43 HU
+CP Threshold:
+870.00 HU
+D2
+NCP volume:
+85.88 mm³
+CP volume:
+48.82 mm³
+Total Plaque volume:
+134.70 mm³
+Low-density NCP volume:
+36.58 mm³
+NCP Perc.:
+63.76 %
+Low-density NCP Perc.:
+42.59 %
+NCP Burden:
+5.49 %
+CP Burden:
+3.12 %
+Total Plaque Burden:
+8.60 %
+Low-density NCP Burden:
+2.34 %
+Dm. Stenosis (Vessel Taper):
+25.25 %
+Minimal Luminal Area:
+4.50 mm²
+Mean Ref. Dist. Stenosis:
+41.18 %
+Area Stenosis:
+72.97 %
+Remodeling Index (RI):
+1.21 
+Contrast Density Drop:
+59.52 %
+NCP X-sections:
+29 
+CP X-sections:
+18 
+Total X-sections:
+45 
+Plaque Length:
+57.80 mm
+Proximal Dm.:
+6.22 mm
+Distal Dm.:
+1.91 mm
+Max. Stenosis Dm.:
+2.39 mm
+NCP Threshold:
+95.54 HU
+Peak Threshold:
+284.43 HU
+CP Threshold:
+870.00 HU
+lolington city
+NCP volume:
+85.88 mm³
+CP volume:
+48.82 mm³
+Total Plaque volume:
+134.70 mm³
+Low-density NCP volume:
+36.58 mm³
+NCP Perc.:
+63.76 %
+Low-density NCP Perc.:
+42.59 %
+NCP Burden:
+5.49 %
+CP Burden:
+3.12 %
+Total Plaque Burden:
+8.60 %
+Low-density NCP Burden:
+2.34 %
+Dm. Stenosis (Vessel Taper):
+25.25 %
+Minimal Luminal Area:
+4.50 mm²
+Mean Ref. Dist. Stenosis:
+41.18 %
+Area Stenosis:
+72.97 %
+Remodeling Index (RI):
+1.21 
+Contrast Density Drop:
+59.52 %
+NCP X-sections:
+29 
+CP X-sections:
+18 
+Total X-sections:
+45 
+Plaque Length:
+57.80 mm
+Proximal Dm.:
+6.22 mm
+Distal Dm.:
+1.91 mm
+Max. Stenosis Dm.:
+2.39 mm
+NCP Threshold:
+95.54 HU
+Peak Threshold:
+284.43 HU
+CP Threshold:
+870.00 HU
+D1
+NCP volume:
+85.88 mm³
+CP volume:
+48.82 mm³
+Total Plaque volume:
+134.70 mm³
+Low-density NCP volume:
+36.58 mm³
+NCP Perc.:
+63.76 %
+Low-density NCP Perc.:
+42.59 %
+NCP Burden:
+5.49 %
+CP Burden:
+3.12 %
+Total Plaque Burden:
+8.60 %
+Low-density NCP Burden:
+2.34 %
+Dm. Stenosis (Vessel Taper):
+25.25 %
+Minimal Luminal Area:
+4.50 mm²
+Mean Ref. Dist. Stenosis:
+41.18 %
+Area Stenosis:
+72.97 %
+Remodeling Index (RI):
+1.21 
+Contrast Density Drop:
+59.52 %
+NCP X-sections:
+29 
+CP X-sections:
+18 
+Total X-sections:
+45 
+Plaque Length:
+57.80 mm
+Proximal Dm.:
+6.22 mm
+Distal Dm.:
+1.91 mm
+Max. Stenosis Dm.:
+2.39 mm
+NCP Threshold:
+95.54 HU
+Peak Threshold:
+284.43 HU
+CP Threshold:
+870.00 HU
