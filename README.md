@@ -43,5 +43,5 @@ This program is intended for use with the specific data format and variable nami
 
 ## Contact
 
-For any questions, issues, or suggestions related to the program, please contact asatpathy314@gmail.com or cqa3ym@virginia.edu. I'm usually available 
-always willing to help you fix bugs with the program. Happy data entry!
+For any questions, issues, or suggestions related to the program, please contact asatpathy314@gmail.com or cqa3ym@virginia.edu. I'm
+always willing to help you fix bugs with the program or even edit it for your database. Happy data entry!
